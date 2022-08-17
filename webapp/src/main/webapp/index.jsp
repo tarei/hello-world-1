@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> New update user Register</h1>
+    <h1> New update Jayade-user2 user Register</h1>
     <p>Please fill in this form as well to create an account.</p>
     <hr>
 
